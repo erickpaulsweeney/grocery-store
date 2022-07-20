@@ -1,10 +1,10 @@
 # Grocery Store
 A simple store with cart management.
 
-![](./screenshots/screenshot.png)
+![](./public/screenshots/screenshot.png)
 
 Demo:
-![](./screenshots/demo.gif)
+![](./public/screenshots/demo.gif)
 
 Images are located inside `public` folder.
 
